@@ -1,0 +1,13 @@
+/* src/index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f7fa;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add any additional global styles below */
